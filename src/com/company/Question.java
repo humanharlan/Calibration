@@ -30,22 +30,27 @@ public class Question {
                 MovieQuestion movieQuestion = new MovieQuestion();
                 this.questionText = movieQuestion.GetQuestionText();
                 this.answer = movieQuestion.GetCorrectAnswer();
+                break;
             case POPULATION:
                 PopulationQuestion populationQuestion = new PopulationQuestion();
                 this.questionText = populationQuestion.GetQuestionText();
                 this.answer = populationQuestion.GetCorrectAnswer();
+                break;
             case SONG:
                 SongQuestion songQuestion = new SongQuestion();
                 this.questionText = songQuestion.GetQuestionText();
                 this.answer = songQuestion.GetCorrectAnswer();
+                break;
             case SCHOOL:
                 SchoolQuestion schoolQuestion = new SchoolQuestion();
                 this.questionText = schoolQuestion.GetQuestionText();
                 this.answer = schoolQuestion.GetCorrectAnswer();
+                break;
             case CELEBRITY:
                 CelebrityQuestion celebrityQuestion = new CelebrityQuestion();
                 this.questionText = celebrityQuestion.GetQuestionText();
                 this.answer = celebrityQuestion.GetCorrectAnswer();
+                break;
         }
     }
 

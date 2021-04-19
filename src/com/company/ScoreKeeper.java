@@ -28,46 +28,60 @@ public class ScoreKeeper {
 
     //Counts the number of correct and incorrect answers at each confidence level
     public void NewAnswer(Boolean correct, String credence){
-        if (correct)
-            switch (credence){
+        if (correct) {
+            switch (credence) {
                 case "5":
                     fiftyTrue++;
+                    break;
                 case "6":
                     sixtyTrue++;
                     score = score + 26;
+                    break;
                 case "7":
                     seventyTrue++;
                     score = score + 49;
+                    break;
                 case "8":
                     eightyTrue++;
                     score = score + 68;
+                    break;
                 case "9":
                     ninetyTrue++;
                     score = score + 85;
+                    break;
                 case "0":
                     ninetyNineTrue++;
                     score = score + 99;
+                    break;
             }
-        else
-            switch (credence){
+        }
+        else {
+            switch (credence) {
                 case "5":
                     fiftyFalse++;
+                    break;
                 case "6":
                     sixtyFalse++;
                     score = score - 32;
+                    break;
                 case "7":
                     seventyFalse++;
                     score = score - 74;
+                    break;
                 case "8":
                     eightyFalse++;
                     score = score - 132;
+                    break;
                 case "9":
                     ninetyFalse++;
                     score = score - 232;
+                    break;
                 case "0":
                     ninetyNineFalse++;
                     score = score - 564;
+                    break;
             }
+        }
     }
 
     //takes the number of correct and incorrect answers for a confidence level and returns a percentage
