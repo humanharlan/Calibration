@@ -1,3 +1,8 @@
+/*
+Represents a scorecard that keeps a tally of correct and incorrect answers at each confidence level.
+Calculates and keeps track of a score.
+ */
+
 package com.company;
 
 public class ScoreKeeper {
@@ -21,59 +26,51 @@ public class ScoreKeeper {
         ninetyNineFalse= 0;
     }
 
+    //Counts the number of correct and incorrect answers at each confidence level
     public void NewAnswer(Boolean correct, String credence){
-        if (correct) {
-            if (credence.equals("5")) {
-                fiftyTrue++;
+        if (correct)
+            switch (credence){
+                case "5":
+                    fiftyTrue++;
+                case "6":
+                    sixtyTrue++;
+                    score = score + 26;
+                case "7":
+                    seventyTrue++;
+                    score = score + 49;
+                case "8":
+                    eightyTrue++;
+                    score = score + 68;
+                case "9":
+                    ninetyTrue++;
+                    score = score + 85;
+                case "0":
+                    ninetyNineTrue++;
+                    score = score + 99;
             }
-            if (credence.equals("6")) {
-                sixtyTrue++;
-                score = score + 26;
+        else
+            switch (credence){
+                case "5":
+                    fiftyFalse++;
+                case "6":
+                    sixtyFalse++;
+                    score = score - 32;
+                case "7":
+                    seventyFalse++;
+                    score = score - 74;
+                case "8":
+                    eightyFalse++;
+                    score = score - 132;
+                case "9":
+                    ninetyFalse++;
+                    score = score - 232;
+                case "0":
+                    ninetyNineFalse++;
+                    score = score - 564;
             }
-            if (credence.equals("7")) {
-                seventyTrue++;
-                score = score + 49;
-            }
-            if (credence.equals("8")) {
-                eightyTrue++;
-                score = score + 68;
-            }
-            if (credence.equals("9")) {
-                ninetyTrue++;
-                score = score + 85;
-            }
-            if (credence.equals("0")) {
-                ninetyNineTrue++;
-                score = score + 99;
-            }
-        }
-        else {
-            if (credence.equals("5")) {
-                fiftyFalse++;
-            }
-            if (credence.equals("6")) {
-                sixtyFalse++;
-                score = score - 32;
-            }
-            if (credence.equals("7")) {
-                seventyFalse++;
-                score = score - 74;
-            }
-            if (credence.equals("8")) {
-                eightyFalse++;
-                score = score - 132;
-            }
-            if (credence.equals("9")) {
-                ninetyFalse++;
-                score = score - 232;
-            }
-            if (credence.equals("0")) {
-                ninetyNineFalse++;
-                score = score - 564;
-            }
-        }
     }
 
+    //takes the number of correct and incorrect answers for a confidence level and returns a percentage
     private String GetPercentage (float correct, float incorrect){
         float total = correct + incorrect;
         if (total == 0) return "___";

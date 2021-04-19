@@ -1,3 +1,7 @@
+/*
+Represents a question, with a category, the text of the question, and a correct answer.
+ */
+
 package com.company;
 
 import java.io.FileNotFoundException;
@@ -20,30 +24,28 @@ public class Question {
 
     public Question(){
         type = GetRandomType();
-        if (type == Type.MOVIE){
-            MovieQuestion movieQuestion = new MovieQuestion();
-            this.questionText = movieQuestion.GetQuestionText();
-            this.answer = movieQuestion.GetCorrectAnswer();
-        }
-        if (type == Type.POPULATION){
-            PopulationQuestion populationQuestion = new PopulationQuestion();
-            this.questionText = populationQuestion.GetQuestionText();
-            this.answer = populationQuestion.GetCorrectAnswer();
-        }
-        if (type == Type.SONG){
-            SongQuestion songQuestion = new SongQuestion();
-            this.questionText = songQuestion.GetQuestionText();
-            this.answer = songQuestion.GetCorrectAnswer();
-        }
-        if (type == Type.SCHOOL){
-            SchoolQuestion schoolQuestion = new SchoolQuestion();
-            this.questionText = schoolQuestion.GetQuestionText();
-            this.answer = schoolQuestion.GetCorrectAnswer();
-        }
-        if (type == Type.CELEBRITY){
-            CelebrityQuestion celebrityQuestion = new CelebrityQuestion();
-            this.questionText = celebrityQuestion.GetQuestionText();
-            this.answer = celebrityQuestion.GetCorrectAnswer();
+
+        switch (type){
+            case MOVIE:
+                MovieQuestion movieQuestion = new MovieQuestion();
+                this.questionText = movieQuestion.GetQuestionText();
+                this.answer = movieQuestion.GetCorrectAnswer();
+            case POPULATION:
+                PopulationQuestion populationQuestion = new PopulationQuestion();
+                this.questionText = populationQuestion.GetQuestionText();
+                this.answer = populationQuestion.GetCorrectAnswer();
+            case SONG:
+                SongQuestion songQuestion = new SongQuestion();
+                this.questionText = songQuestion.GetQuestionText();
+                this.answer = songQuestion.GetCorrectAnswer();
+            case SCHOOL:
+                SchoolQuestion schoolQuestion = new SchoolQuestion();
+                this.questionText = schoolQuestion.GetQuestionText();
+                this.answer = schoolQuestion.GetCorrectAnswer();
+            case CELEBRITY:
+                CelebrityQuestion celebrityQuestion = new CelebrityQuestion();
+                this.questionText = celebrityQuestion.GetQuestionText();
+                this.answer = celebrityQuestion.GetCorrectAnswer();
         }
     }
 
