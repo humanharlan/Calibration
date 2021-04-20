@@ -1,0 +1,1203 @@
+﻿~~~Welcome to the Calibration Game.~~~
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 0
+
+You were correct...
+___% of the time that you reported a 50% credence.
+___% of the time that you reported a 60% credence.
+___% of the time that you reported a 70% credence.
+___% of the time that you reported a 80% credence.
+___% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank West University of Timişoara higher than Iowa State University?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Bermuda greater than the population of South Korea?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+8
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 117
+
+You were correct...
+___% of the time that you reported a 50% credence.
+___% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+___% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Yeungnam University higher than University of Konstanz?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Turkmenistan greater than the population of Nigeria?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Stony Brook University higher than Kumamoto University?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 192
+
+You were correct...
+100.00% of the time that you reported a 50% credence.
+100.00% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+___% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'Happy-Go-Lucky' released after the film 'When in Rome'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Hypnotize by The Notorious B.I.G. on the Billboard Hot 100 for more weeks than the song The Biggest Parakeets In Town by Jud Strunk?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+9
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 277
+
+You were correct...
+50.00% of the time that you reported a 50% credence.
+100.00% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Damian Lillard get paid more than Katy Perry?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'The Last Samurai' released after the film 'Stakeout'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did DeMarcus Lawrence get paid more than Rihanna?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 329
+
+You were correct...
+33.33% of the time that you reported a 50% credence.
+100.00% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'Sunset Song' released after the film 'Topaz'?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Seoul National University higher than University of Essex?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Funkytown by Lipps Inc. on the Billboard Hot 100 for more weeks than the song The Morning After by Maureen McGovern?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+9
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 414
+
+You were correct...
+40.00% of the time that you reported a 50% credence.
+100.00% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Allergies by Paul Simon on the Billboard Hot 100 for more weeks than the song Needles And Pins by Tom Petty & The Heartbreakers With Stevie Nicks?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Paul George get paid more than Taylor Swift?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 463
+
+You were correct...
+33.33% of the time that you reported a 50% credence.
+100.00% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'Diggstown' released after the film 'Come Back to Me'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song This Girl (Has Turned Into A Woman) by Mary Macgregor on the Billboard Hot 100 for more weeks than the song Lies by Thompson Twins?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Kylie Jenner get paid more than Justin Timberlake?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Paul George get paid more than Phil Mickelson?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 457
+
+You were correct...
+50.00% of the time that you reported a 50% credence.
+80.00% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Mmm Mmm Mmm Mmm by Crash Test Dummies on the Billboard Hot 100 for more weeks than the song Ready by Cat Stevens?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 425
+
+You were correct...
+50.00% of the time that you reported a 50% credence.
+66.67% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'Phantasm II' released after the film 'Licence to Kill'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of United Arab Emirates greater than the population of Australia?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+9
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 510
+
+You were correct...
+55.56% of the time that you reported a 50% credence.
+66.67% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of American Samoa greater than the population of Lao PDR?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Pink get paid more than Cristiano Ronaldo?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank New York University higher than University of Utah?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 608
+
+You were correct...
+60.00% of the time that you reported a 50% credence.
+66.67% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song So Good by B.o.B on the Billboard Hot 100 for more weeks than the song Brand New Lover by Dead Or Alive?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 576
+
+You were correct...
+60.00% of the time that you reported a 50% credence.
+57.14% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Xidian University higher than Florida State University?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Vilnius University higher than University of Illinois at Chicago?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 625
+
+You were correct...
+63.64% of the time that you reported a 50% credence.
+57.14% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Eindhoven University of Technology higher than University of Nairobi?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Keep It Comin' Love by KC And The Sunshine Band on the Billboard Hot 100 for more weeks than the song From His Woman To You by Barbara Mason?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 677
+
+You were correct...
+63.64% of the time that you reported a 50% credence.
+66.67% of the time that you reported a 60% credence.
+100.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Dave Matthews Band get paid more than Akshay Kumar?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 603
+
+You were correct...
+63.64% of the time that you reported a 50% credence.
+66.67% of the time that you reported a 60% credence.
+85.71% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'Aqua Teen Hunger Force Colon Movie Film for Theaters' released after the film 'Eloise'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song If Heaven Wasn't So Far Away by Justin Moore on the Billboard Hot 100 for more weeks than the song Like No Other Night by Thirty Eight Special?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did David Copperfield get paid more than Mike Trout?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'The Island of Dr. Moreau' released after the film 'Sand Sharks'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank University of South Carolina higher than United Arab Emirates University?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Paul George get paid more than Chris Hemsworth?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+8
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Rihanna get paid more than Pink?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 798
+
+You were correct...
+61.54% of the time that you reported a 50% credence.
+75.00% of the time that you reported a 60% credence.
+87.50% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+___% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Syrian Arab Republic greater than the population of Cyprus?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank University of California Los Angeles higher than Technical University of Munich?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+9
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song "I Believe I Can Fly (From ""Space Jam"") by R. Kelly" on the Billboard Hot 100 for more weeks than the song Mary Did You Know? by Pentatonix?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+0
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 982
+
+You were correct...
+64.29% of the time that you reported a 50% credence.
+75.00% of the time that you reported a 60% credence.
+87.50% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+100.00% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Canada greater than the population of French Polynesia?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+0
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 1081
+
+You were correct...
+64.29% of the time that you reported a 50% credence.
+75.00% of the time that you reported a 60% credence.
+87.50% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+100.00% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Howard Stern get paid more than Simon Cowell?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Fleetwood Mac get paid more than Elton John?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 1130
+
+You were correct...
+60.00% of the time that you reported a 50% credence.
+75.00% of the time that you reported a 60% credence.
+88.89% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+100.00% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Djibouti greater than the population of Senegal?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Russell Westbrook get paid more than Damian Lillard?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Federated States of Micronesia greater than the population of Estonia?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Count On Me by Jefferson Starship on the Billboard Hot 100 for more weeks than the song (she's) Sexy + 17 by Stray Cats?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'Dark Passage' released after the film 'Ink'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Dominican Republic greater than the population of Russian Federation?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+0
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Russell Westbrook get paid more than Guns N' Roses?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Synchronicity II by The Police on the Billboard Hot 100 for more weeks than the song Psycho by Post Malone Featuring Ty Dolla $ign?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+9
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 1289
+
+You were correct...
+57.89% of the time that you reported a 50% credence.
+75.00% of the time that you reported a 60% credence.
+81.82% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+100.00% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Tuvalu greater than the population of Guinea-Bissau?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Suriname greater than the population of Cayman Islands?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Harlem Shuffle by The Rolling Stones on the Billboard Hot 100 for more weeks than the song As I Lay Me Down by Sophie B. Hawkins?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Tallinn University of Technology higher than Tulane University?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 1241
+
+You were correct...
+57.14% of the time that you reported a 50% credence.
+76.92% of the time that you reported a 60% credence.
+75.00% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+100.00% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Billy Joel get paid more than Ed Sheeran?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+8
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Babeş-Bolyai University higher than Tokyo Medical and Dental University (TMDU)?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song No One by Alicia Keys on the Billboard Hot 100 for more weeks than the song Last Dance by Donna Summer?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the song Axel F by Harold Faltermeyer on the Billboard Hot 100 for more weeks than the song I Made It (Cash Money Heroes) by Kevin Rudolf Featuring Birdman Jay Sean & Lil Wayne?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'The Iron Lady' released after the film 'Addicted to Fresno'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2016, did the Times rank Peter the Great St Petersburg Polytechnic University higher than University of York?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did LeBron James get paid more than Rolling Stones?
+'Y' for yes OR 'N' for no
+y
+You selected Yes.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+7
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+Was the film 'King Cobra' released after the film 'Hours'?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+5
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2013, was the population of Bermuda greater than the population of Liberia?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+6
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+1
+In 2019, did Rory McIlroy get paid more than Robert Downey Jr.?
+'Y' for yes OR 'N' for no
+n
+You selected No.
+How confident are you in your answer? Choose the closest option.
+'5'=50% '6'=60% '7'=70% '8'=80% '9'=90% '0'=99% 
+8
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+2
+Your current score is 1527
+
+You were correct...
+60.00% of the time that you reported a 50% credence.
+80.00% of the time that you reported a 60% credence.
+78.57% of the time that you reported a 70% credence.
+100.00% of the time that you reported a 80% credence.
+100.00% of the time that you reported a 90% credence.
+100.00% of the time that you reported a 99% credence.
+
+Choose an option...
+1. New Question
+2. See your results
+3. Quit
+3
+
+Process finished with exit code 0
